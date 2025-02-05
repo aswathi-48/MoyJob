@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    /* border-radius: 10px; */
+    background-color: whitesmoke;
+    align-items: center;
+    color: rgb(9, 3, 24);
+    font-size: 26px;
+}
+.title{
+    color: var(--textSoft);
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}

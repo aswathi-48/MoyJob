@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+}
+.menu {
+    flex: 1;
+    padding: 20px;
+    background-color: rgb(7, 0, 30);
+
+}
+.content {
+    flex: 4
+}
+.list {
+    list-style: none;
+}
+.cat{
+    color: var(--textSoft);
+    font-weight: bold;
+    font-size: 13px;
+    margin: 10px 0px;
+}

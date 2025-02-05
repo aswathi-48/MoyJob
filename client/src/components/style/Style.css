@@ -1,0 +1,113 @@
+.mui-1k8m6w8-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: rgb(14, 14, 46);
+
+}
+
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-cell--textLeft {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.MuiDataGrid-columnHeader--last{
+    margin-left: 70px;
+
+}
+/* 
+.mui-78c6dr-MuiToolbar-root-MuiTablePagination-toolbar {
+    padding-right: 159px !important;
+} */
+
+
+
+
+
+
+.login{
+    /* background-color: #98e5dd; */
+    width: 100%;
+    height: 100vh;
+}
+.log-main{
+    display: flex;
+    justify-content: center;
+}
+.log-main-one{
+    background-color: white;
+   margin-top: 170px;
+   border: 6px solid rgb(243, 236, 224);
+   height: 400px;
+   margin-right: 40px;
+   width: 350px;
+
+
+}
+.log-head{
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+    height: auto;
+   
+}
+.log-head h4{
+    border-bottom: 1px solid rgb(243, 236, 224);
+    font-size: 24px;
+    font-family: inherit;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.log-body{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.log-body-cntnt{
+    padding: 6px;
+    margin-top: 10px;
+    height: 25px;
+    width: 250px;
+    border-radius: 5px;
+    border: 1px solid rgb(236, 234, 234);
+}
+.log-icon{
+    height: 12px;
+ }
+ .log-body-cntnt input{
+     border: none;
+     margin-left: 3px;
+     outline: none;
+ 
+ }
+ .log-frgt{
+    margin-left: 50px;
+    margin-top: 30px;
+    text-decoration: none;
+ }
+ .log-frgt p{
+    margin-top: 10px;
+    text-decoration: none;
+ }
+ .log-btn{
+     border-radius: 5px;
+     margin-top: 20px;
+     height: 35px;
+     width: 250px;
+     border: 1px solid rgb(236, 234, 234);
+     background-color: rgb(241, 55, 55);
+ }
+ .log-btn button{
+    border: none;
+    background: none;
+    margin-left: 105px;
+    margin-top: 8px;
+    color: white;
+}
+.log-para{
+    margin-top: 20px;
+    margin-left: 2px;
+}
+.log-link{
+    text-decoration: none;
+}
